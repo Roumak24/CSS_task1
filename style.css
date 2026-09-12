@@ -1,0 +1,42 @@
+body{
+    background-color:orange;
+}
+
+.head{
+    color:darkblue;
+}
+
+#bglime{
+    background-color:lime;
+}
+
+h2 span:first-of-type{
+    color:red;
+}
+
+#para{
+    color:green;
+}
+
+p span{
+    color:black;
+    font-size:30px;
+}
+
+ul li:nth-child(1) a:first-of-type{
+    color:green;
+    background-color:yellow;
+}
+
+ul li:nth-child(2) a:last-of-type{
+    color:blue;
+    background-color:purple;
+}
+
+ol li:nth-child(2) {
+    color:blue;
+}
+
+ol li:nth-child(3) {
+    color:red;
+}
